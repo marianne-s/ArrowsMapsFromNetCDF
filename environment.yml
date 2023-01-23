@@ -1,9 +1,9 @@
-name: ArrowsMapsFromNetCDF
+name: arrowsMapsFromNetCDF
 channels:
   - anaconda
   - conda-forge
 dependencies:
-- python=3.11.1
+- python=3.9
 - xarray=0.20.1
 - matplotlib=3.5.2
 - pandas=1.4.4
