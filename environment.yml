@@ -1,4 +1,4 @@
-name:windsVectorsMapping
+name: ArrowsMapsFromNetCDF
 channels:
   - anaconda
   - conda-forge
@@ -8,4 +8,3 @@ dependencies:
 - matplotlib=3.5.2
 - pandas=1.4.4
 - cartopy=0.18.0
-
