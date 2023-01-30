@@ -3,8 +3,11 @@
 
 An step by step Jupyter notebook to create arrows and barbs winds maps from NetCDF grid files (U and V components). </br>
 
-You can use it with you own data with the following link: 
+You can use it with you own data with the following link: </br></br>
+https://mybinder.org/v2/gh/marianne-s/ArrowsMapsFromNetCDF/HEAD  </br></br>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marianne-s/ArrowsMapsFromNetCDF/HEAD)
 
+</br>
 
 
 
